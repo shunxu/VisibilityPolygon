@@ -6,6 +6,8 @@ Visibility Polygon from a Given Point -- Christine
     A Linear Algorithm for Computing the Visibility Polygon from a Point
 				        H. EL GINDY AND D. AVIS
 
+License
+Copyright © 2012 Christine Xu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Instructions:
