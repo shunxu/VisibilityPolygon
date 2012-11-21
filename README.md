@@ -8,6 +8,7 @@ Visibility Polygon from a Given Point -- Christine
 
 License
 Copyright © 2012 Christine Xu
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Instructions:
